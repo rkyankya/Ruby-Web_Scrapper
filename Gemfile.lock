@@ -109,6 +109,7 @@ GEM
     selenium-webdriver (3.142.7)
       childprocess (>= 0.5, < 4.0)
       rubyzip (>= 1.2.2)
+    smarter_csv (1.2.6)
     thor (1.0.1)
     thread_safe (0.3.6)
     tzinfo (1.2.6)
@@ -143,6 +144,7 @@ DEPENDENCIES
   kimurai
   nokogiri
   rspec
+  smarter_csv
   watir
   webdrivers
 
