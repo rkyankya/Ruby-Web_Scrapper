@@ -42,7 +42,7 @@ This web scraping tool is for freelancer.com website only:
 1) Git clone this repo and cd the to the `Ruby-Web_Scrapper` directory.
 2) Run `bundle install` in command line to install Nokogiri and HTTParty Gem.
 3) Run `ruby bin/main.rb`.
-4) Input keywords in separate lines. Press enter key on a new line to begim the search.
+4) Input keywords in separate lines. Press enter key on a new line to begin the search.
 
 ### Requirements
 
@@ -85,9 +85,9 @@ Feel free to reach out to me with any of the links below
 **Kyankya Raymond**
    
 
- - [Github](https://github.com/rkyankya)
- - [Twitter](https://twitter.com/rkyankya)
- - [Linkedin](https://www.linkedin.com/in/kyankya-raymond-79461215a/)
+ - rkyankya [Github](https://github.com/rkyankya)
+ - @rkyankya [Twitter](https://twitter.com/rkyankya)
+ - Kyankya Raymond [Linkedin](https://www.linkedin.com/in/kyankya-raymond-79461215a/)
 
 ## Acknowledgments
 
