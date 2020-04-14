@@ -1,7 +1,9 @@
 require 'nokogiri'
 require 'httparty'
 
-puts 'Enter Keywords for Freelancer.com  Web scraping jobs press enter twice once you are finished'
+def intro
+  puts 'Enter Keywords for Freelancer.com  Web scraping jobs press enter twice once you are finished'
+end
 
 class Scraper
   def initialize(keywords, site)
@@ -90,3 +92,4 @@ class Scraper
     @jobs
   end
 end
+intro

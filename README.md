@@ -35,7 +35,8 @@
 The project description in from Microverse capstone projects on the Ruby section [Link to Description:](https://www.notion.so/microverse/Build-your-own-scraper-f54eaca54d8a4d758a5f0141468127a8)
 
 ## Installation
-**To run this project yo have to have this repo on your computer**
+**To run this project you have to have this repo on your computer**
+
 To get a local copy up and running follow these simple steps.
 
 This web scraping tool is for freelancer.com website only: 
