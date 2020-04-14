@@ -48,3 +48,4 @@ def main
   puts 'Terminating...'
   sleep(2)
 end
+main
